@@ -1,0 +1,49 @@
+.ui.borderless.topmenu.menu{
+  box-shadow: none;
+  border: none;
+  padding-top: 80px;
+  padding-right: 25%;
+  background: whitesmoke;
+}
+
+.ui.borderless.menu{
+  box-shadow: none;
+  border: none;
+  padding-top: 30px;
+  background: whitesmoke;
+}
+.ui.center.aligned.three.column.row{
+  padding: 10px 10px 10px 10px;
+  background: whitesmoke;
+}
+
+.ui.image{
+  width: 100px;
+  margin-right: 1em;
+}
+.ui.move.image{
+  width: 100px;
+  margin-right: 2em;
+  margin-left: 1.5em;
+}
+.first.word{
+  color: grey;
+  font-size: 11px;
+  padding-left: 100px;
+  padding-top: 30px;
+}
+.words{
+  color: grey;
+  font-size: 11px;
+  padding-top: 30px;
+  padding-left: 20px;
+}
+.ltd{
+  color: grey;
+  font-size: 11px;
+  padding-top: 30px;
+  padding-right: 175px;
+}
+body{
+  background: whitesmoke;
+}
